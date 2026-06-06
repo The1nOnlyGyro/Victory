@@ -1,7 +1,7 @@
 [
 {
-  "name":"Dragon Throne";
-  "isNationalWonder":true;
+  "name":"Dragon Throne",
+  "isNationalWonder":true,
   "uniques":["[+100]% Production towards any buildings that already exist in the Capital",
 "[+100]% resources gifted by City-States",
 "[+100]% [Strategic] resource production",
