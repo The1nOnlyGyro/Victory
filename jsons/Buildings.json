@@ -22,8 +22,8 @@
     "[+1 Production] from [Pasture] tiles [in all cities]",
     "[+1 Gold] from [Plantation] tiles [in all cities]",
     "[+1 Production] from [Quarry] tiles [in all cities]",
-    "[+1 Food] from [Fishing Boats] tiles [in all cities]"
+    "[+1 Food] from [Fishing Boats] tiles [in all cities]",
 "Only available <for [Human player] Civilizations>",
-"Automatically built in all cities where it is buildable",
-},
+"Automatically built in all cities where it is buildable"]
+  }
 ]
