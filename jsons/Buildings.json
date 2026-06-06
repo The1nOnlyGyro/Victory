@@ -10,5 +10,20 @@
 "Only available <for [Human player] Civilizations>",
 "Automatically built in all cities where it is buildable",
 "All newly-trained [{Military} {Land}] units [in all cities] receive the [Blessing of The Dragon] promotion"]
-}
+},
+  {
+  "name":"Divine Will",
+  "isNationalWonder":true,
+  "uniques":["[+1 Food] from [Farm] tiles [in all cities]",
+    "[+1 Production] from [Lumber Mill] tiles [in all cities]",
+    "[+1 Production] from [Mine] tiles [in all cities]",
+    "[+1 Gold] from [Trading Post] tiles [in all cities]",
+    "[+1 Gold] from [Camp] tiles [in all cities]",
+    "[+1 Production] from [Pasture] tiles [in all cities]",
+    "[+1 Gold] from [Plantation] tiles [in all cities]",
+    "[+1 Production] from [Quarry] tiles [in all cities]",
+    "[+1 Food] from [Fishing Boats] tiles [in all cities]"
+"Only available <for [Human player] Civilizations>",
+"Automatically built in all cities where it is buildable",
+},
 ]
